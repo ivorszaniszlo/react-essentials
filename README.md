@@ -33,9 +33,6 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 * Clone or download the repo
 * Open the directory and run `npm install` in the project root.
 * Run `npm run dev` in the project root and the app will be available on port in localhost.
-* Open the directory and run `npm install` in the folder /backend.
-* Run `npm app.js`
-
 
 ## Deploy <a id="deploy"></a>
 
